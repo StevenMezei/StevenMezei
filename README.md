@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenMezei
-- 👀 I’m interested in Computer Science and Statitics
-- 🌱 I’m currently using Python and Power BI
+- 👀 I’m interested in Computer Science and Statistics
+- 🌱 I’m currently looking for data science or data analyst work
 - 📫 How to reach me stevenmezei@gmail.com
 
 <!---
